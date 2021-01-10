@@ -4,8 +4,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+#include "bvh.h"
 #include "sphere.h"
+#include "moving_sphere.h"
 #include "hitable_list.h"
 #include "material.h"
 #include "camera.h"
